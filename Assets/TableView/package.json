@@ -2,7 +2,7 @@
   "name": "com.afantree.tableview",
   "displayName": "Tableview",
   "description": "a Table with an API inspired by Apple's UITableView",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "unity": "2018.3",
   "license": "MIT",
   "dependencies": {},
